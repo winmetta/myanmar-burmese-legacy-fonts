@@ -1,0 +1,939 @@
+./swanbros-free-myanmar-burmese-fonts/myanmar2.TTF: OK
+./swanbros-free-myanmar-burmese-fonts/WIRSB___.PFB: OK
+./swanbros-free-myanmar-burmese-fonts/WIST____.PFM: OK
+./swanbros-free-myanmar-burmese-fonts/WIMNB___.PFM: OK
+./swanbros-free-myanmar-burmese-fonts/WWPYUN__.TTF: OK
+./swanbros-free-myanmar-burmese-fonts/WID_____.PFB: OK
+./swanbros-free-myanmar-burmese-fonts/myanmar3.TTF: OK
+./swanbros-free-myanmar-burmese-fonts/myanmar1.TTF: OK
+./swanbros-free-myanmar-burmese-fonts/WIRSB___.PFM: OK
+./swanbros-free-myanmar-burmese-fonts/WIMNB___.PFB: OK
+./swanbros-free-myanmar-burmese-fonts/WIST____.PFB: OK
+./swanbros-free-myanmar-burmese-fonts/WID_____.PFM: OK
+./swanbros-free-myanmar-burmese-fonts/WIWD____.PFM: OK
+./swanbros-free-myanmar-burmese-fonts/WIIL____.PFB: OK
+./swanbros-free-myanmar-burmese-fonts/winnlay.ttf: OK
+./swanbros-free-myanmar-burmese-fonts/WII08___.PFM: OK
+./swanbros-free-myanmar-burmese-fonts/WIWD____.PFB: OK
+./swanbros-free-myanmar-burmese-fonts/WIIL____.PFM: OK
+./swanbros-free-myanmar-burmese-fonts/WII08___.PFB: OK
+./swanbros-free-myanmar-burmese-fonts/WII12___.PFM: OK
+./swanbros-free-myanmar-burmese-fonts/WIKT____.PFB: OK
+./swanbros-free-myanmar-burmese-fonts/WPINYA__.PFB: OK
+./swanbros-free-myanmar-burmese-fonts/WINNWA__.PFB: OK
+./swanbros-free-myanmar-burmese-fonts/WIIN____.PFB: OK
+./swanbros-free-myanmar-burmese-fonts/WIKT____.PFM: OK
+./swanbros-free-myanmar-burmese-fonts/WII12___.PFB: OK
+./swanbros-free-myanmar-burmese-fonts/WPINYA__.PFM: OK
+./swanbros-free-myanmar-burmese-fonts/WINNWA__.PFM: OK
+./swanbros-free-myanmar-burmese-fonts/WIIN____.PFM: OK
+./swanbros-free-myanmar-burmese-fonts/WIMB____.PFM: OK
+./swanbros-free-myanmar-burmese-fonts/WKTAN___.PFM: OK
+./swanbros-free-myanmar-burmese-fonts/WIBTN___.PFB: OK
+./swanbros-free-myanmar-burmese-fonts/WILK____.PFB: OK
+./swanbros-free-myanmar-burmese-fonts/WIH_____.PFM: OK
+./swanbros-free-myanmar-burmese-fonts/wtgyi.ttf: OK
+./swanbros-free-myanmar-burmese-fonts/WHAKA___.PFM: OK
+./swanbros-free-myanmar-burmese-fonts/WIMB____.PFB: OK
+./swanbros-free-myanmar-burmese-fonts/WILK____.PFM: OK
+./swanbros-free-myanmar-burmese-fonts/WKTAN___.PFB: OK
+./swanbros-free-myanmar-burmese-fonts/WIBTN___.PFM: OK
+./swanbros-free-myanmar-burmese-fonts/WIH_____.PFB: OK
+./swanbros-free-myanmar-burmese-fonts/WHAKA___.PFB: OK
+./swanbros-free-myanmar-burmese-fonts/WIPOL___.PFM: OK
+./swanbros-free-myanmar-burmese-fonts/README.md: OK
+./swanbros-free-myanmar-burmese-fonts/WII07___.PFM: OK
+./swanbros-free-myanmar-burmese-fonts/WIRS____.PFB: OK
+./swanbros-free-myanmar-burmese-fonts/ww_burn4.ttf: OK
+./swanbros-free-myanmar-burmese-fonts/WIKL____.PFM: OK
+./swanbros-free-myanmar-burmese-fonts/WIMN____.PFM: OK
+./swanbros-free-myanmar-burmese-fonts/WHPAGAN0.TTF: OK
+./swanbros-free-myanmar-burmese-fonts/WIPOL___.PFB: OK
+./swanbros-free-myanmar-burmese-fonts/ww_burn6.ttf: OK
+./swanbros-free-myanmar-burmese-fonts/WIRS____.PFM: OK
+./swanbros-free-myanmar-burmese-fonts/WII07___.PFB: OK
+./swanbros-free-myanmar-burmese-fonts/WIKL____.PFB: OK
+./swanbros-free-myanmar-burmese-fonts/WIMN____.PFB: OK
+./swanbros-free-myanmar-burmese-fonts/WITL____.PFB: OK
+./swanbros-free-myanmar-burmese-fonts/ZawgyiOne20071230.ttf: OK
+./swanbros-free-myanmar-burmese-fonts/Wininnwa.ttf: OK
+./swanbros-free-myanmar-burmese-fonts/WWPYUC__.TTF: OK
+./swanbros-free-myanmar-burmese-fonts/WII09___.PFB: OK
+./swanbros-free-myanmar-burmese-fonts/WIM_____.PFB: OK
+./swanbros-free-myanmar-burmese-fonts/WIKM____.PFB: OK
+./swanbros-free-myanmar-burmese-fonts/WW_BURB1.TTF: OK
+./swanbros-free-myanmar-burmese-fonts/WIPA____.PFB: OK
+./swanbros-free-myanmar-burmese-fonts/WILS____.PFM: OK
+./swanbros-free-myanmar-burmese-fonts/WITL____.PFM: OK
+./swanbros-free-myanmar-burmese-fonts/WII09___.PFM: OK
+./swanbros-free-myanmar-burmese-fonts/WW_BURN0.TTF: OK
+./swanbros-free-myanmar-burmese-fonts/wresb.ttf: OK
+./swanbros-free-myanmar-burmese-fonts/winnwa.ttf: OK
+./swanbros-free-myanmar-burmese-fonts/WIKM____.PFM: OK
+./swanbros-free-myanmar-burmese-fonts/WIM_____.PFM: OK
+./swanbros-free-myanmar-burmese-fonts/WILS____.PFB: OK
+./swanbros-free-myanmar-burmese-fonts/WIPA____.PFM: OK
+./swanbros-free-myanmar-burmese-fonts/WIDW____.PFM: OK
+./swanbros-free-myanmar-burmese-fonts/WITG____.PFM: OK
+./swanbros-free-myanmar-burmese-fonts/WIMLM___.PFM: OK
+./swanbros-free-myanmar-burmese-fonts/WII25___.PFB: OK
+./swanbros-free-myanmar-burmese-fonts/WII13___.PFB: OK
+./swanbros-free-myanmar-burmese-fonts/WIYDNP__.PFM: OK
+./swanbros-free-myanmar-burmese-fonts/WIINB___.PFB: OK
+./swanbros-free-myanmar-burmese-fonts/WIA_____.PFM: OK
+./swanbros-free-myanmar-burmese-fonts/WITG____.PFB: OK
+./swanbros-free-myanmar-burmese-fonts/WIDW____.PFB: OK
+./swanbros-free-myanmar-burmese-fonts/WIMLM___.PFB: OK
+./swanbros-free-myanmar-burmese-fonts/WII25___.PFM: OK
+./swanbros-free-myanmar-burmese-fonts/wponcoeb.ttf: OK
+./swanbros-free-myanmar-burmese-fonts/WIINB___.PFM: OK
+./swanbros-free-myanmar-burmese-fonts/WIYDNP__.PFB: OK
+./swanbros-free-myanmar-burmese-fonts/WII13___.PFM: OK
+./swanbros-free-myanmar-burmese-fonts/WIA_____.PFB: OK
+./swanbros-free-myanmar-burmese-fonts/wkyauk.ttf: OK
+./swanbros-free-myanmar-burmese-fonts/WIT_____.PFM: OK
+./swanbros-free-myanmar-burmese-fonts/how_to_type.pdf: OK
+./swanbros-free-myanmar-burmese-fonts/WinMyanmar Systems for Windows - keyboard layout.jpg: OK
+./swanbros-free-myanmar-burmese-fonts/WLSHO___.PFM: OK
+./swanbros-free-myanmar-burmese-fonts/WIMDY___.PFM: OK
+./swanbros-free-myanmar-burmese-fonts/WWHAN___.TTF: OK
+./swanbros-free-myanmar-burmese-fonts/WII11___.PFM: OK
+./swanbros-free-myanmar-burmese-fonts/WWHLAING.TTF: OK
+./swanbros-free-myanmar-burmese-fonts/WIT_____.PFB: OK
+./swanbros-free-myanmar-burmese-fonts/WLSHO___.PFB: OK
+./swanbros-free-myanmar-burmese-fonts/WIMDY___.PFB: OK
+./swanbros-free-myanmar-burmese-fonts/WII11___.PFB: OK
+./.DS_Store: OK
+./dafontfree.net/winpulaw.ttf: OK
+./dafontfree.net/wintn.ttf: OK
+./dafontfree.net/ww-burb-1.ttf: OK
+./dafontfree.net/winnwa-0.ttf: OK
+./dafontfree.net/wintaung.ttf: OK
+./dafontfree.net/wintanai.ttf: OK
+./dafontfree.net/wintantyan.ttf: OK
+./dafontfree.net/ww-chon-0.ttf: OK
+./dafontfree.net/wintypew.ttf: OK
+./dafontfree.net/winwd.ttf: OK
+./dafontfree.net/wwburamn.ttf: OK
+./dafontfree.net/winyadan.ttf: OK
+./dafontfree.net/wwtg.ttf: OK
+./dafontfree.net/wintgyi-0.ttf: OK
+./dafontfree.net/wiw130.ttf: OK
+./dafontfree.net/winresear.ttf: OK
+./dafontfree.net/wiw090.ttf: OK
+./dafontfree.net/winpinya.ttf: OK
+./dafontfree.net/winshwepyi.ttf: OK
+./dafontfree.net/wiw250.ttf: OK
+./dafontfree.net/winpt.ttf: OK
+./dafontfree.net/wiw080.ttf: OK
+./dafontfree.net/zawgyione20071204.ttf: OK
+./dafontfree.net/winthato.ttf: OK
+./dafontfree.net/ww-burb1-1.ttf: OK
+./dafontfree.net/ww-burn1-1.ttf: OK
+./dafontfree.net/winsittw.ttf: OK
+./dafontfree.net/wiw120.ttf: OK
+./dafontfree.net/winsecur.ttf: OK
+./dafontfree.net/README.md: OK
+./dafontfree.net/winsw.ttf: OK
+./dafontfree.net/wwburn-1.ttf: OK
+./dafontfree.net/wiw110.ttf: OK
+./dafontfree.net/winyae.ttf: OK
+./dafontfree.net/winnyaungs.ttf: OK
+./dafontfree.net/wiw070.ttf: OK
+./dafontfree.net/wintlwin-0.ttf: OK
+./dafontfree.net/winpyay.ttf: OK
+./dafontfree.net/wininnwa.ttf: OK
+./dafontfree.net/winydnp-0.ttf: OK
+./dafontfree.net/winthiba.ttf: OK
+./dafontfree.net/winsg.ttf: OK
+./dafontfree.net/winyebyu.ttf: OK
+./dafontfree.net/winputao.ttf: OK
+./dafontfree.net/wwhlaing-0.ttf: OK
+./dafontfree.net/winyango.ttf: OK
+./dafontfree.net/winpolwin.ttf: OK
+./dafontfree.net/wintype.ttf: OK
+./dafontfree.net/winphaan.ttf: OK
+./dafontfree.net/wponco-0.ttf: OK
+./dafontfree.net/wyb.ttf: OK
+./dafontfree.net/winpmn.ttf: OK
+./dafontfree.net/winthuwa.ttf: OK
+./dafontfree.net/wintlyin.ttf: OK
+./dafontfree.net/winnwab.ttf: OK
+./dafontfree.net/wwburamb.ttf: OK
+./dafontfree.net/winthaya-0.ttf: OK
+./dafontfree.net/wintachileik.ttf: OK
+./dafontfree.net/ww-burn-1.ttf: OK
+./dafontfree.net/wintt.ttf: OK
+./README.md: OK
+./clamav-scan.md: OK
+./aungthumoe5-zawgyi-on-mac/LICENSE: OK
+./aungthumoe5-zawgyi-on-mac/README.md: OK
+./aungthumoe5-zawgyi-on-mac/Fonts/Padauk/padauk-3.003/documentation/DOCUMENTATION.txt: OK
+./aungthumoe5-zawgyi-on-mac/Fonts/Padauk/padauk-3.003/documentation/Padauk-features.odt: OK
+./aungthumoe5-zawgyi-on-mac/Fonts/Padauk/padauk-3.003/documentation/Padauk-typesample.odt: OK
+./aungthumoe5-zawgyi-on-mac/Fonts/Padauk/padauk-3.003/documentation/Padauk-typesample.pdf: OK
+./aungthumoe5-zawgyi-on-mac/Fonts/Padauk/padauk-3.003/documentation/Padauk-features.pdf: OK
+./aungthumoe5-zawgyi-on-mac/Fonts/Padauk/padauk-3.003/Padauk-Regular.ttf: OK
+./aungthumoe5-zawgyi-on-mac/Fonts/Padauk/padauk-3.003/PadaukBook-Regular.ttf: OK
+./aungthumoe5-zawgyi-on-mac/Fonts/Padauk/padauk-3.003/web/PadaukBook-Bold.woff: OK
+./aungthumoe5-zawgyi-on-mac/Fonts/Padauk/padauk-3.003/web/padauk-WOFF-metadata.xml: OK
+./aungthumoe5-zawgyi-on-mac/Fonts/Padauk/padauk-3.003/web/Padauk-Regular.woff: OK
+./aungthumoe5-zawgyi-on-mac/Fonts/Padauk/padauk-3.003/web/Padauk-Bold.woff: OK
+./aungthumoe5-zawgyi-on-mac/Fonts/Padauk/padauk-3.003/web/PadaukBook-Regular.woff: OK
+./aungthumoe5-zawgyi-on-mac/Fonts/Padauk/padauk-3.003/web/Padauk-webfont-example.css: OK
+./aungthumoe5-zawgyi-on-mac/Fonts/Padauk/padauk-3.003/web/Padauk-webfont-example.html: OK
+./aungthumoe5-zawgyi-on-mac/Fonts/Padauk/padauk-3.003/FONTLOG.txt: OK
+./aungthumoe5-zawgyi-on-mac/Fonts/Padauk/padauk-3.003/PadaukBook-Bold.ttf: OK
+./aungthumoe5-zawgyi-on-mac/Fonts/Padauk/padauk-3.003/README.md: OK
+./aungthumoe5-zawgyi-on-mac/Fonts/Padauk/padauk-3.003/Padauk-Bold.ttf: OK
+./aungthumoe5-zawgyi-on-mac/Fonts/Padauk/padauk-3.003/OFL.txt: OK
+./aungthumoe5-zawgyi-on-mac/Fonts/Padauk/padauk-3.003/README.txt: OK
+./aungthumoe5-zawgyi-on-mac/Fonts/Padauk/padauk-3.003/OFL-FAQ.txt: OK
+./aungthumoe5-zawgyi-on-mac/Fonts/Padauk/Character Set Support.md: OK
+./aungthumoe5-zawgyi-on-mac/Fonts/Zawgyi/Zawgyi-One_v4.ttf: OK
+./aungthumoe5-zawgyi-on-mac/Fonts/Zawgyi/ZawgyiOne2008.ttf: OK
+./aungthumoe5-zawgyi-on-mac/Fonts/Zawgyi/ZawgyiOne2005.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/from-myZawgyiFont.zip/dancing.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/from-myZawgyiFont.zip/tabodwe mix.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/index.html: OK
+./KhunHtetzNaing-AllZawgyiFont/.DS_Store: OK
+./KhunHtetzNaing-AllZawgyiFont/paoh_zg.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/NotoSansZawgyi.woff2: OK
+./KhunHtetzNaing-AllZawgyiFont/mon3.woff: OK
+./KhunHtetzNaing-AllZawgyiFont/NotoSansZawgyi.svg: OK
+./KhunHtetzNaing-AllZawgyiFont/paoh_zg.woff: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Colored/Seijaku_colored.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Colored/Best_Wishes_color.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Colored/LOVEN.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Colored/Sprival_Sans.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Colored/Growing_Color.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Colored/Monster_color.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Colored/VICTORIA_color.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Colored/Turkey_color.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Colored/BurningRope_Colored.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Colored/Animals_color.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Colored/Holiday_Color.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Colored/MoonCake-Color.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Colored/H20_color.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Colored/Roger_color.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Colored/Comic Book_color.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Colored/Yggdrassil_color.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Colored/Celebration.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Colored/Ms_Luce.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Colored/Alex.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Colored/Pluto.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Colored/Confusion.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Colored/Volcano_color.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Colored/Newborn_color.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Colored/PinkyQueen_Color.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Colored/Flora_color.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Colored/Cartoon.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Colored/Christmas_color.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Colored/GiraffaFrank_Colored.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Colored/Foldream_Color.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Colored/TESLA_Color.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Colored/Rainbow-color.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Colored/NUTS.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Colored/Marshmallow_color.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Colored/Roseonly_Color.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Colored/Sonic_color.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Colored/Mommy.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Colored/Fire_Color.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Colored/Snake_color.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Colored/Twinkle_color.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Colored/SmokeOff.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Colored/Water_Melon_color.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Colored/Jetter.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Colored/Twilight.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Colored/Unica.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Colored/Candy.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Colored/Singing_color.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Colored/Halloween_color.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Colored/LetsDoIt.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Unicode/Padauk.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Unicode/PadaukKyaungchikote.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Unicode/MyanmarCensus.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Unicode/Myanmar3.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Unicode/MyanmarText_Regular.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Unicode/Phetsot.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Unicode/ThuriyaVolt.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Unicode/NamKhoneUnicode.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Unicode/SamsungMyanmar.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Unicode/PadaukGhostтАЛ.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Unicode/Nayone.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Unicode/MyanmarText_Bold.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Unicode/Thanlwin-Regular.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Unicode/NKGrand.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Unicode/Gantgaw.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Unicode/PaohDragonApp.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Unicode/NotoSansMyanmar-Regular.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Unicode/PadaukSgaw.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Unicode/Kamjing.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Unicode/Taungyi.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Unicode/YoeYar-One_Light.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Unicode/padauk-bookbold.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Unicode/MonAnonta.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Unicode/KengTawng.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Unicode/Tagu.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Unicode/MyanmarTextMelano.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Unicode/NK_SSmart3.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Unicode/NK_SSmart2.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Unicode/MyanmarPaOh.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Unicode/PadaukSagar.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Unicode/Cherry.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Unicode/YoeYar-One_Bold.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Unicode/NotoSansMyanmarUI-Regular.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Unicode/NamTengWebPro.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Unicode/MyanmarSansPro.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Unicode/NK_SSmart4.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Unicode/MyanmarPaOhOne.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Unicode/Khyay.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Unicode/padauk-book.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Unicode/Kuttar.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Unicode/Pyidaungsu_Regular.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Unicode/PadaukGrandPro.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Unicode/Sabae.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Unicode/ShanUnicode.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Unicode/MyanmarRosemarry.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Unicode/PadaukSgaw-bookbold.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Unicode/NotoSansMyanmar-Bold.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Unicode/Padauk-bold.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Unicode/Parabaik.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Unicode/MyanmarSquare.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Unicode/Ponenyet.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Unicode/Pauklay.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Unicode/Khway.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Unicode/MyanmarAngoun.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Unicode/Thuriya.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Unicode/Jasmine.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Unicode/YoeYar-One_Regular.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Unicode/Thanlwin-Bold.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Unicode/MyanmarPixel.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Unicode/mon3.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Unicode/MyanmarBlack.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Unicode/MyanmarSquareLight.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Unicode/MyanmarPunk.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Unicode/MyanmarNjaun.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Unicode/Yunghkio.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Unicode/MyanmarPaOhRosemary.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Unicode/WinUniInnwa.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Unicode/PadaukSgaw-Bold.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Unicode/Sagar.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Unicode/Myanmar3PaOh.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Unicode/Tharlon.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Unicode/Pyidaungsu_Bold.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Unicode/NamkhonWebPro.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Unicode/PadaukSgaw-book.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Unicode/MyanmarPixelSmooth.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Unicode/NotoSansMyanmarUI-Bold.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Unicode/Yinmar.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Unicode/PangLong.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Zawgyi/love.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Zawgyi/notosansmix.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Zawgyi/padauk.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Zawgyi/z2.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Zawgyi/yoeyar.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Zawgyi/khnisi.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Zawgyi/wg.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Zawgyi/tdg.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Zawgyi/szg.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Zawgyi/tran.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Zawgyi/ubuntu.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Zawgyi/htinshu.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Zawgyi/tabaung.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Zawgyi/tsm.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Zawgyi/dc.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Zawgyi/tagu.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Zawgyi/nattaw.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Zawgyi/heart.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Zawgyi/ttl.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Zawgyi/paoh.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Zawgyi/tbd.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Zawgyi/pyatho.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Zawgyi/dancing.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Zawgyi/warso.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Zawgyi/kason.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Zawgyi/jojar.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Zawgyi/ooredoo.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Zawgyi/ngaye.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Zawgyi/ghost.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Zawgyi/nayon.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Zawgyi/matrix.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Zawgyi/zy.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Zawgyi/yuzana.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Zawgyi/zo.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Zawgyi/eainmat.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Zawgyi/notosans.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Zawgyi/sagar.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Zawgyi/tabodwemix.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Myanmar/Zawgyi/izawgyi.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Cool/Rosewood.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Cool/Sweetie.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Cool/Devroye Unicode.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Cool/Yellowtail.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Cool/Skate Sonic.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Cool/Trade Winds.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Cool/ShortStack.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Cool/GrandHotel-Regular.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Cool/Sail.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Cool/Jetter.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Cool/Amerika.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Cool/Comic Relief.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Emojis/iOS11Emoji.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Emojis/Twemoji.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Emojis/Windows10Emoji.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Emojis/AndroidPEmoji.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/z/Emojis/FacebookEmoji.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/NotoSansZawgyi.woff: OK
+./KhunHtetzNaing-AllZawgyiFont/README.md: OK
+./KhunHtetzNaing-AllZawgyiFont/NotoSansZawgyi.eot: OK
+./KhunHtetzNaing-AllZawgyiFont/NotoSansZawgyi.otf: OK
+./KhunHtetzNaing-AllZawgyiFont/mon3.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/NotoSansZawgyi.ttf: OK
+./KhunHtetzNaing-AllZawgyiFont/zawgyi.woff: OK
+./.git: Excluded
+./moekyawsoe-Myanmar-Fonts/PADAUK-REGULAR.TTF: OK
+./moekyawsoe-Myanmar-Fonts/ZAWGYI-ONE_V3.1.TTF: OK
+./moekyawsoe-Myanmar-Fonts/MMRTEXT.TTF: OK
+./moekyawsoe-Myanmar-Fonts/WINNWAB0.TTF: OK
+./moekyawsoe-Myanmar-Fonts/PYIDAUNGSU-2.5.2_BOLD.TTF: OK
+./moekyawsoe-Myanmar-Fonts/README.md: OK
+./moekyawsoe-Myanmar-Fonts/PYIDAUNGSU-2.5.2_REGULAR.TTF: OK
+./moekyawsoe-Myanmar-Fonts/PADAUK-BOLD.TTF: OK
+./moekyawsoe-Myanmar-Fonts/WININNWA.TTF: OK
+./moekyawsoe-Myanmar-Fonts/MMRTEXTB.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W42Art House-2ndEdition2007.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/MET12___.PFM: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/SAK_RYL.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WYANGONB.PFM: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/PINNY17_.PFB: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WILAY___.PFB: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W45AH___.otf: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W44AH___.otf: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/NYIHORIZ.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W43AH___.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W42AH___.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/MET7____.PFM: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/NYIOVAL_.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WW_BURN_.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WOOR____.PFM: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/S049.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/S061.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/S075.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WPOL____.PFM: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WIW090__.PFB: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W34AH___.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W35AH___.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WAMRPR__.PFM: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/S074.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/PINNY21_.PFM: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/S060.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W54Art House-2ndEdition2007.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/S048.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W61Art House-Bold.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W09Art House.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/SAK2LINE.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W32AH___.otf: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W33AH___.otf: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WILAY___.PFM: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W06AH___.otf: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W07AH___.otf: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/MYASE000.PFM: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WYANGONB.PFB: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/PINNY17_.PFM: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W49AH___.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W48AH___.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/w38art house.ttf: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WPOL____.PFB: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/MYASB001.PSS: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W47Art House-2ndEdition2007.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/S076.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/S062.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W01AH___.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W38AH___.otf: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W39AH___.otf: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/S063.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/S077.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/MYASB000.PSS: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/PINNY21_.PFB: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WIW090__.PFM: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WAMRPR__.PFB: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/NYIDESI6.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/MYASN000.PSS: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W51Art House-2ndEdition2007.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W08Art House.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WKL_____.PFB: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WDAGON__.PFM: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WMLMYINE.PFB: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W54AH___.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WINNWAB_.PFB: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W55AH___.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/U4SHT009.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/PINNY20_.PFB: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W52AH___.otf: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W53AH___.otf: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WLOIKAW_.PFM: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/S073.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/S067.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/MSMOOM__.PFM: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/MET_____.PFM: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WMONONB_.PFM: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W25AH___.otf: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/MY_SHWE.PFM: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W24AH___.otf: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/S066.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/S072.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/NYITF___.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WIW070__.PFM: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/NYITFF__.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/U4SHT008.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/MYASS000.PFM: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W48Art House-2ndEdition2007.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/PINNY16_.PFM: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W23AH___.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W22AH___.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W17AH___.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W16AH___.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WINNWAB_.PFM: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WDAGON__.PFB: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W58AH___.otf: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W59AH___.otf: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WKL_____.PFM: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/NYIDESIG.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WMLMYINE.PFM: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/MSMOOM__.PFB: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/U4BOTATAUNG.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WLOIKAW_.PFB: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/w37art house-bold.ttf: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/MET10___.PFM: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/S064.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/MY_SH000.PSS: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/PINNY20_.PFM: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/S070.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/S058.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/U4MINGALARDON.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W11AH___.otf: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/MET6____.PFM: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W10AH___.otf: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/w39art house.ttf: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WIW070__.PFB: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WPONCOB_.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/S059.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/S071.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W29AH___.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/S065.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W28AH___.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/MY_SHWE.PFB: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/NYITHIT_.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WMONONB_.PFB: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W60AH___.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WYDNPON.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/NYIDESI0.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/PINNY16_.PFB: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/SOFTC___.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W61Art House-BoldItalic.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W53AH___.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W52AH___.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/w34art house.ttf: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W61Art House.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WIW110__.PFM: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/PINNY11_.PFM: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WTG_____.PFB: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WMONON__.PFM: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WWDING__.PFB: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/w33art house.ttf: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W66Art House.ttf: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WPHAAN__.PFB: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/MYASH000.PSS: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WPINYA__.PFB: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W61Art House-ExtraBold.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/U4ABC015.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/U4ABC001.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/U4ABC029.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/w31art house-bold.ttf: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W55AH___.otf: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/U4SHT30.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W54AH___.otf: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/U4SHT24.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W46Art House-2ndEdition2007.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/U4SHT18.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/U4SHT19.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/w26art house.ttf: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/U4LANMADAW.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/U4SHT25.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WINNWA__.PFB: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WRESB___.PFB: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/MYASC000.PFM: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/w21art house.ttf: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/U4ABC028.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/U4ABC014.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W22AH___.otf: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W23AH___.otf: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W24AH___.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W25AH___.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/SAKART_0.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W50Art House-2ndEdition2007.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WMONON__.PFB: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WWDING__.PFM: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WTG_____.PFM: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W17Art House.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WIW110__.PFB: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W43Art House-2ndEdition2007.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/PINNY11_.PFB: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/MET4____.PFM: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W10AH___.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W11AH___.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WPONCO__.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W10Art House.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WIW090.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/U4ABC002.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/U4ABC016.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W16AH___.otf: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W17AH___.otf: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/U4SHT27.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WPHAAN__.PFM: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W59AH___.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WPINYA__.PFM: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W58AH___.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W55Art House-2ndEdition2007.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/U4SHT26.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W05Art House.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WRESB___.PFM: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W60AH___.otf: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WINNWA__.PFM: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/U4ABC017.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/U4ABC003.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W02Art House.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/MET14___.PFM: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W28AH___.otf: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W29AH___.otf: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/MET18___.PFM: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/NYICIRCL.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/MET5____.PFM: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W20Art House.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W42AH___.otf: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W43AH___.otf: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/w27art house.ttf: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WKTAN___.PFM: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/U4ABC007.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/U4ABC013.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W44AH___.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W45AH___.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/S038.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/PINNY___.PFM: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WIW130__.PFB: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/U4SHT22.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/PATAMYA.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/U4SHT23.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W67Art House.ttf: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/w32art house.ttf: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/S039.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/SH______.PFM: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W33AH___.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/U4ABC012.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/U4ABC006.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W32AH___.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/w35art house.ttf: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WIW250__.PFB: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W62Art House-Bold.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WTYPE___.PFM: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/MET16___.PFM: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W35AH___.otf: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WIW080.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W34AH___.otf: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WHAKA___.PFM: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W03Art House.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/Myanmar font.ttf: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W04Art House.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W01AH___.otf: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W07AH___.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WIW130__.PFM: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W06AH___.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/U4BAHAN.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/U4ABC010.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/PINNY___.PFB: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/U4ABC004.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W48AH___.otf: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W49AH___.otf: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/U4SHT21.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/U4SHT20.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WIW250__.PFM: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W60Art House-2ndEdition2007.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W11Art House.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/U4ABC005.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/U4ABC011.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/SH______.PFB: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W16Art House.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W49Art House-2ndEdition2007.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WHPAGAN.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WHAKA___.PFB: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W39AH___.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W38AH___.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/PINNY10_.PFM: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WHAKA__2.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/MET16___.PFB: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WTYPE___.PFB: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WIW080__.PFM: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W14AH___.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W15AH___.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/MAHURA.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/w25art house.ttf: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W70Art House.ttf: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/NYITHIT1.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/MSHEAV__.PFM: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WTLYIN__.PFB: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/U4ABC020.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/U4ABC008.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WMONO___.PFM: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/w22art house.ttf: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W12AH___.otf: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W13AH___.otf: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/S037.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/S036.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WHPONN__.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/U4ABC009.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/U4ABC021.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WSTWY___.PFM: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/MYASH000.PFM: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WIW070.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/w37art house.ttf: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W62Art House.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/MET9____.PFM: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WYANGON_.PFM: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/w30art house.ttf: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W65Art House.ttf: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W18AH___.otf: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W59Art House-2ndEdition2007.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W19AH___.otf: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WIW080__.PFB: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W57AH___.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W56AH___.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W51AH___.otf: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W50AH___.otf: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/U4ABC023.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/NYITWICE.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W06Art House.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WTLYIN__.PFM: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/S034.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WMONO___.PFB: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W01Art House.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/U4SHT12.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WYDNP.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/MSHEAV__.PFB: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W26AH___.otf: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WSTWY___.PFB: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W27AH___.otf: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/U4SHT13.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/S035.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/U4ABC022.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W14Art House.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/YATANA_0.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WYANGON_.PFB: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W13Art House.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W20AH___.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W21AH___.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W05AH___.otf: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W04AH___.otf: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/PINNY12_.PFB: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W64Art House.ttf: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/U4KAMARYUT.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/ROBINNEW.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/NYIELEPH.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/U4ABC026.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/S031.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W63Art House.ttf: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/w36art house.ttf: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W03AH___.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/U4SHT17.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W02AH___.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/PEACOCK.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/U4SHT16.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/PINNY3__.PFB: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/U4ABC027.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W56Art House-2ndEdition2007.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/w21art house-bold.ttf: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WMONOB__.PFB: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/MET11___.PFM: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/w23art house.ttf: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WPHAAN.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/w24art house.ttf: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W09AH___.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W08AH___.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/PINNY12_.PFM: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/OWN.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W46AH___.otf: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W47AH___.otf: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W45Art House-2ndEdition2007.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W40AH___.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W41AH___.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/U4ABC019.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W12Art House.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WRESB.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/U4ABC025.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/S032.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/U4SHT28.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/U4SHT14.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/w40art house.ttf: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W15Art House.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WINLAY.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/U4SHT15.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/U4SHT29.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W37AH___.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W36AH___.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/S033.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/NYITFT__.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/U4ABC024.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/U4ABC030.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/NYITFO__.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/U4ABC018.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/U4DAGONMYOTHIT.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/PINNY3__.PFM: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W53Art House-2ndEdition2007.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/SAKSAK.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W07Art House.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W31AH___.otf: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W30AH___.otf: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/MET8____.PFM: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WMONOB__.PFM: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W58Art House-2ndEdition2007.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/MET15___.PFM: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/NYIT____.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W02AH___.otf: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W03AH___.otf: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/U4SHT006.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/YADANABN.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W04AH___.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/PINNY6__.PFB: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W05AH___.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/S068.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/MET19___.PFM: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/S040.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/S054.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W61Art House-Italic.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/S055.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/S041.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/S069.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WTG.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/U4SHT007.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WRES____.PFB: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/MY______.PFM: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/SAK_THIC.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WTHAW__N.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/PINNY15_.PFB: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W18Art House.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/MET3____.PFM: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WTLYIN.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W41AH___.otf: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W40AH___.otf: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/MYASB000.PFM: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/U4SHT005.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/U4SHT011.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W08AH___.otf: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W09AH___.otf: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/MET19___.PFB: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/S057.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/w29art house.ttf: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/PINNY6__.PFM: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/S043.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W47AH___.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W46AH___.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/S080.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/MYASN000.PFM: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/S042.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WPONCOEB.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/S056.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W30AH___.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W31AH___.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/U4SHT010.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/U4SHT004.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WINNWAB.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W36AH___.otf: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W37AH___.otf: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W69Art House.ttf: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/PINNY15_.PFM: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/MYASB001.PFM: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/U4LATHA.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/MY______.PFB: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WRES____.PFM: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/PINNY18_.PFB: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/THAZIN__.PFM: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WHPONNB_.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/PINNY14_.PFM: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W13AH___.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W12AH___.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WDAWEI__.PFB: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WIDE.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W15AH___.otf: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W14AH___.otf: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/MYASS000.PSS: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W44Art House-2ndEdition2007.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W19Art House.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/S052.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/S046.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WLSHO___.PFM: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/U4TAKETA.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/S047.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WMDY____.PFM: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/S053.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WKALAW_0.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WBTN____.PFM: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/U4SHT001.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W52Art House-2ndEdition2007.ttf: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/PINNY2__.PFM: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WKMONE__.PFB: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WWHLAING.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/TUTTYPE.PFB: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WIW120__.PFM: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WDAWEI__.PFM: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/PINNY14_.PFB: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W50AH___.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W51AH___.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/U4ALONE.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W41Art House-2ndEdition2007.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/THAZIN__.PFB: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/PINNY18_.PFM: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/U4SHT003.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/MET_13__.PFM: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W19AH___.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W18AH___.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WLSHO___.PFB: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/S045.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W56AH___.otf: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/U4PAZUNDAUNG.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W68Art House.ttf: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/S051.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W57AH___.otf: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/S079.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/S078.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/S050.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/S044.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W21AH___.otf: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W20AH___.otf: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WMDY____.PFB: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W57Art House-2ndEdition2007.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/MET2____.PFM: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/U4SHT002.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WIW120__.PFB: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/SAK_THI0.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/TUTTYPE.PFM: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WKMONE__.PFM: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W27AH___.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/w28art house.ttf: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/W26AH___.TTF: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/PINNY2__.PFB: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/MY_SH000.PFM: OK
+./moekyawsoe-Myanmar-Fonts/Myanmar Fonts TTF Series 2/WBTN____.PFB: OK
+./moekyawsoe-Myanmar-Fonts/WRES.TTF: OK
+./moekyawsoe-Myanmar-Fonts/PYIDAUNGSU-2.5.2_NUMBERS.TTF: OK
+
+----------- SCAN SUMMARY -----------
+Known viruses: 3628228
+Engine version: 1.5.5
+Scanned directories: 21
+Scanned files: 926
+Infected files: 0
+Data scanned: 389.93 MiB
+Data read: 186.64 MiB (ratio 2.09:1)
+Time: 10.381 sec (0 m 10 s)
+Start Date: 2026:11:26 14:35:54
+End Date:   2026:11:26 14:36:05
